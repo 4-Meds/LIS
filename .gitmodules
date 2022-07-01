@@ -1,0 +1,6 @@
+[submodule "shell"]
+	path = shell
+	url = git@github.com:4-Meds/shell.git
+[submodule "patients"]
+	path = patients
+	url = git@github.com:4-Meds/patients.git
